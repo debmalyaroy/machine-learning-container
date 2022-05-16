@@ -1,0 +1,89 @@
+##### Core scientific packages
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyter
+notebook
+
+# Efficient jobs (caching, parallelism, persistence)
+joblib
+
+# Easy http requests
+requests
+
+##### Machine Learning packages
+scikit-learn
+scikit-optimize
+xgboost
+lightgbm
+
+##### Deep Learning packages
+tensorflow
+#torch==1.4.0+cpu
+#torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+##### Image manipulation
+imageio
+Pillow
+scikit-image
+graphviz
+pydot
+opencv-python
+pyglet
+
+# Nice utility to diff Jupyter Notebooks.
+nbdime
+
+# May be useful with Pandas for complex "where" clauses (e.g., Pandas
+# tutorial).
+numexpr
+nltk
+urlextract
+
+# Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
+tqdm
+ipywidgets
+enum34
+funcsigs
+gensim
+jedi
+mock
+parso
+pbr
+regex
+bleach
+certifi
+chardet
+decorator
+entrypoints
+html5lib
+ipykernel
+ipython
+ipython-genutils
+Jinja2
+jsonschema
+jupyter-client
+jupyter-console
+jupyter-contrib-core
+jupyter-contrib-nbextensions
+jupyter-core
+jupyter-highlight-selected-word
+jupyter-latex-envs
+jupyter-nbextensions-configurator
+Markdown
+MarkupSafe
+mistune
+pandocfilters
+protobuf
+python-dateutil
+simplegeneric
+terminado
+testpath
+tornado
+traitlets
+urllib3
+wcwidth
+Werkzeug
+widgetsnbextension
