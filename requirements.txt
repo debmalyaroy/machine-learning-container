@@ -45,8 +45,10 @@ urlextract
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
 tqdm
 ipywidgets
+missingpy
 enum34
 funcsigs
+plotly
 gensim
 jedi
 mock
